@@ -3,46 +3,74 @@
 ### 🎯 Objetivo del Proyecto
 Identificar la tienda de menor desempeño dentro de la cadena Alura Store para evaluar su posible venta, mediante análisis cuantitativo de métricas clave de rendimiento.
 
-### 🏪 Tiendas Analizadas
-✅ Tienda 1: Rendimiento sólido
+### 🏪 ANÁLISIS DE CRECIMIENTO POR TIENDA
 
-✅ Tienda 2: Rendimiento estable
+| Tienda | Tasa CAGR | Estado | Tendencia |
+|--------|-----------|---------|-----------|
+| **Tienda 1** | -34.6% anual | ⚠️ DECRECE | Descenso moderado |
+| **Tienda 2** | -35.4% anual | ⚠️ DECRECE | Descenso moderado |
+| **Tienda 3** | -42.0% anual | ⚠️ DECRECE | **Mayor descenso** |
+| **Tienda 4** | -44.2% anual | ⚠️ DECRECE | **Descenso más pronunciado** |
 
-✅ Tienda 3: Líder en desempeño
-
-✅ Tienda 4: Bajo rendimiento (candidata a venta)
-
-### 📈 Métricas de Evaluación
-Métrica	Descripción	Relevancia
-Ingresos totales	Volumen de ventas brutas	Principal indicador financiero
-Calificación de clientes ⭐	Satisfacción del cliente (escala 1-5)	Indicador de experiencia
-Costos de envío 🚚	Gastos logísticos operativos	Eficiencia operativa
-Crecimiento anual 📈	Variación interanual de ventas	Tendencias de desempeño
-Productos más vendidos 📦	Mix de productos por categoría	Estrategia comercial
+#### 📊 RESUMEN DEL COMPORTAMIENTO
+- **Todas las tiendas** presentan crecimiento negativo
+- **Rango de decrecimiento**: -34.6% a -44.2% anual
+- **Tienda 1**: Menor decrecimiento (-34.6%)
+- **Tienda 4**: Mayor decrecimiento (-44.2%)
+- **Brecha entre mejor/peor**: 9.6 puntos porcentuales
 
 ### 🔗 Acceso al Proyecto
 El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/Alura-Store](https://github.com/Tuanama21/Challenge-ONE-Data-Science---Alura-Store_Edward_Tuanama.git)
 
+### 🎯 RECOMENDACIÓN ESTRATÉGICA PARA LA VENTA: TIENDA 4
 
-### 📊 Resultados del Análisis
-Tabla Comparativa de Desempeño
-Tienda	Ingresos	Calificación	Crecimiento	Estado
-Tienda 1	$185.2K	4.2⭐	+12%	✅ Sólida
-Tienda 2	$152.8K	3.8⭐	+8%	⚠️ Estable
-Tienda 3	$218.5K	4.5⭐	+25%	🚀 Líder
-Tienda 4	$94.3K	3.5⭐	-5%	🔻 Problemática
+#### 🚨 SITUACIÓN ALARMANTE
 
-### 🎯 Recomendación Estratégica
-VENDER TIENDA 4
-Justificación basada en datos:
+**TENDENCIAS CRÍTICAS IDENTIFICADAS:**
+- **Decrecimiento generalizado**: Todas las tiendas muestran CAGR negativo
+- **Severidad de la caída**: Rangos entre -34.6% y -44.2% anual
+- **Problemas estructurales**: La tendencia negativa indica desafíos sistémicos
 
-Bajo rendimiento financiero: Ingresos significativamente inferiores al promedio
+#### 📉 ANÁLISIS DE DECRECIMIENTO POR TIENDA
 
-Insatisfacción del cliente: Peores calificaciones de experiencia
+| Tienda | Tasa CAGR | Posición | Gravedad |
+|--------|-----------|----------|----------|
+| **Tienda 4** | -44.2% anual | 🥇 **1º Peor** | **CRÍTICA** |
+| **Tienda 3** | -42.0% anual | 🥈 2º Peor | **ALTA** |
+| **Tienda 2** | -35.4% anual | 🥉 3º Peor | MEDIA |
+| **Tienda 1** | -34.6% anual | 4º Peor | MODERADA |
 
-Tendencia negativa: Única tienda con crecimiento negativo
+#### 💡 JUSTIFICACIÓN DE LA DECISIÓN
 
-Falta de ventajas competitivas: Sin especialización en categorías de productos
+**RAZONES PRINCIPALES PARA VENDER TIENDA 4:**
+
+1. **PEOR PERFORMANCE ABSOLUTA**
+   - Mayor tasa de decrecimiento (-44.2%)
+   - Tendencia más acelerada a la baja
+   - Posición consistente como última en métricas clave
+
+2. **PROBLEMA ESTRUCTURAL EVIDENTE**
+   - El decrecimiento no es aislado, pero Tienda 4 lo maximiza
+   - Combinación de menor crecimiento Y peor desempeño relativo
+
+3. **OPORTUNIDAD DE REESTRUCTURACIÓN**
+   - Liberar recursos para enfocar en tiendas con mejor potencial
+   - Reducir exposición al riesgo más severo
+
+#### 🎯 ACCIONES RECOMENDADAS
+
+**INMEDIATAS:**
+- ✅ Iniciar proceso de venta de Tienda 4
+- 📊 Monitorear estrechamente Tienda 3 (segunda peor)
+
+**MEDIANO PLAZO:**
+- 🔍 Investigar causas del decrecimiento generalizado
+- 📈 Desarrollar plan de recuperación para tiendas restantes
+- 💼 Reasignar recursos liberados por venta
+
+---
+
+**⚠️ NOTA ESTRATÉGICA**: La venta de Tienda 4 debe considerarse como el primer paso en una reestructuración mayor del negocio, dado el patrón general de decrecimiento.
 
 
 ## Autores
