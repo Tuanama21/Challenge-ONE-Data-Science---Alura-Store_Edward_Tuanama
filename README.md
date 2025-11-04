@@ -52,8 +52,6 @@ Este proyecto fue desarrollado por:
 
 <div align="center">
   
-[![Tuanama21](https://avatars.githubusercontent.com/u/TU_USER_ID?v=4)](https://github.com/Tuanama21)
-  
 ### [Tuanama21](https://github.com/Tuanama21)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Tuanama21?style=social)](https://github.com/Tuanama21)
