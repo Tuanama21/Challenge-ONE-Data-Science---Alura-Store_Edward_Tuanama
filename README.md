@@ -20,7 +20,7 @@ Identificar la tienda de menor desempeño dentro de la cadena Alura Store para e
 - **Brecha entre mejor/peor**: 9.6 puntos porcentuales
 
 ### 🔗 Acceso al Proyecto
-El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/Alura-Store](https://github.com/Tuanama21/Challenge-ONE-Data-Science---Alura-Store_Edward_Tuanama.git)
+El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/Alura-Store](https://github.com/Tuanama21/Challenge-ONE-Data-Science---Alura-Store_Edward_Tuanama/blob/main/AluraStoreLatam_Challenge_ONE_DS_ED.ipynb)
 
 ### 🎯 RECOMENDACIÓN ESTRATÉGICA PARA LA VENTA: TIENDA 4
 
