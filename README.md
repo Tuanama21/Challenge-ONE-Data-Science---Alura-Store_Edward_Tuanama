@@ -45,9 +45,6 @@ Tendencia negativa: Única tienda con crecimiento negativo
 Falta de ventajas competitivas: Sin especialización en categorías de productos
 
 
-### 👥 Desarrolladores
-Este proyecto fue desarrollado por:
-
 ## Autores
 
 <div align="center">
