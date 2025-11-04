@@ -21,7 +21,7 @@ Crecimiento anual 📈	Variación interanual de ventas	Tendencias de desempeño
 Productos más vendidos 📦	Mix de productos por categoría	Estrategia comercial
 
 ### 🔗 Acceso al Proyecto
-El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/Challenge-ONE-Data-Science]([https://github.com/Tuanama21/challenge-amigo-secreto_Edward_Tuanama.git](https://github.com/Tuanama21/Challenge-ONE-Data-Science---Alura-Store_Edward_Tuanama/blob/main/AluraStoreLatam_Challenge_ONE_DS_ED.ipynb))
+El repositorio del proyecto está disponible en: [https://github.com/Tuanama21/Alura-Store](https://github.com/Tuanama21/Challenge-ONE-Data-Science---Alura-Store_Edward_Tuanama.git)
 
 
 ### 📊 Resultados del Análisis
